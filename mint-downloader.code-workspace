@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "name": "main",
+      "path": "packages/main"
+    },
+    {
+      "name": "ui",
+      "path": "packages/ui"
+    },
+    {
+      "name": "shared",
+      "path": "packages/shared"
+    },
+    {
+      "name": "interfaces",
+      "path": "packages/interfaces"
+    }
+  ],
+  "settings": {}
+}
