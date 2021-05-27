@@ -18,6 +18,10 @@
     {
       "name": "interfaces",
       "path": "packages/interfaces"
+    },
+    {
+      "name": "scripts",
+      "path": "packages/scripts"
     }
   ],
   "settings": {}

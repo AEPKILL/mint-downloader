@@ -1,0 +1,13 @@
+{
+  "name": "@mint-downloader/scripts",
+  "version": "1.0.0",
+  "description": "mint-downloader scripts",
+  "keywords": [],
+  "author": "AEPKILL",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^15.6.1",
+    "clime": "^0.5.14",
+    "reflect-metadata": "^0.1.13"
+  }
+}
